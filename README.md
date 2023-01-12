@@ -7,7 +7,7 @@
 
 ## About Me :
 
-I'm a Canadian highschool student with a passion for programming.
+I'm a Canadian high school student with a passion for programming.
 
 - 📃 I'm a mostly self-taught developer
 - ✏️ I learn best through building projects
