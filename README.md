@@ -42,7 +42,7 @@ I'm a Canadian high school student with a passion for programming.
 
 ## Stats :
 <div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Moulik-Budhiraja&count_private=true&theme=transparent&border_color=30363d&include_all_commits=true&show_icons=true&text_bold=false&card_width=390" alt="Moulik's Github Stats" align="left"></img>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Moulik-Budhiraja&count_private=true&theme=transparent&border_color=30363d&include_all_commits=true&show_icons=true&text_bold=false&card_width=370" alt="Moulik's Github Stats" align="left"></img>
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Moulik-Budhiraja&layout=compact&theme=transparent&border_color=30363d&langs_count=8&card_width=340" height="194" alt="Moulik's Top Languages" align="left"></img>
 
