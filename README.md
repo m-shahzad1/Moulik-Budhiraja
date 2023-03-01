@@ -1,7 +1,9 @@
 <p align="center"><img src="images/profile%20picture.png" width="100"/></p>
 <p align="center">
-<a href="https://www.youtube.com/@moulik_b"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+<a href="www.linkedin.com/in/moulikbudhiraja"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube Badge"/></a>
 </p>
+
+
 
 <h1 align="center">Hey There, I'm Moulik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
