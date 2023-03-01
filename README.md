@@ -1,6 +1,6 @@
 <p align="center"><img src="images/profile%20picture.png" width="100"/></p>
 <p align="center">
-<a href="www.linkedin.com/in/moulikbudhiraja"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube Badge"/></a>
+<a href="https://www.linkedin.com/in/moulikbudhiraja"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
 </p>
 
 
